@@ -1,0 +1,109 @@
+{
+ "screen": "05_form_b-name",
+ "url": "http://kayloo.local:8000/inscription",
+ "image": {
+  "width": 2880,
+  "height": 1686
+ },
+ "elements": [
+  {
+   "label": "Retour",
+   "type": "button",
+   "x": 64,
+   "y": 44,
+   "width": 180,
+   "height": 67,
+   "tap": false
+  },
+  {
+   "label": "Agence Horizon Immobilier",
+   "type": "button",
+   "x": 160,
+   "y": 493,
+   "width": 1120,
+   "height": 86,
+   "tap": false
+  },
+  {
+   "label": "contact@exemple.com",
+   "type": "button",
+   "x": 160,
+   "y": 650,
+   "width": 550,
+   "height": 86,
+   "tap": false
+  },
+  {
+   "label": "+221 33 000 00 00",
+   "type": "button",
+   "x": 730,
+   "y": 650,
+   "width": 550,
+   "height": 86,
+   "tap": false
+  },
+  {
+   "label": "exemple.com",
+   "type": "button",
+   "x": 160,
+   "y": 807,
+   "width": 550,
+   "height": 86,
+   "tap": false
+  },
+  {
+   "label": "Bénin Côte d'Ivoire Guinée Mali Senegal Togo",
+   "type": "button",
+   "x": 730,
+   "y": 807,
+   "width": 550,
+   "height": 84,
+   "tap": false
+  },
+  {
+   "label": "on",
+   "type": "button",
+   "x": 160,
+   "y": 1051,
+   "width": 30,
+   "height": 30,
+   "tap": false
+  },
+  {
+   "label": "CGU",
+   "type": "button",
+   "x": 365,
+   "y": 1049,
+   "width": 58,
+   "height": 32,
+   "tap": false
+  },
+  {
+   "label": "Créer mon compte",
+   "type": "button",
+   "x": 160,
+   "y": 1110,
+   "width": 1120,
+   "height": 93,
+   "tap": false
+  },
+  {
+   "label": "Programmes neufs à Dakar Appartements, villas, VEFA… Découvrir →",
+   "type": "button",
+   "x": 160,
+   "y": 1318,
+   "width": 550,
+   "height": 224,
+   "tap": false
+  },
+  {
+   "label": "Trouvez un artisan vérifié Plomberie, électricité, carrelage… Découvrir →",
+   "type": "button",
+   "x": 730,
+   "y": 1318,
+   "width": 550,
+   "height": 224,
+   "tap": false
+  }
+ ]
+}

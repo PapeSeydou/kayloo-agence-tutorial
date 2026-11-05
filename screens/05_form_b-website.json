@@ -1,0 +1,143 @@
+{
+ "screen": "05_form_b-website",
+ "url": "http://kayloo.local:8000/inscription",
+ "viewport": {
+  "width": 2880,
+  "height": 1620
+ },
+ "scrollY": 0,
+ "elements": [
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Retour",
+   "href": "/",
+   "x": 64,
+   "y": 44,
+   "width": 180,
+   "height": 68,
+   "tap": false,
+   "label": "Retour"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Agence Horizon Immobilier",
+   "href": "",
+   "x": 160,
+   "y": 492,
+   "width": 1120,
+   "height": 86,
+   "tap": false,
+   "label": "Agence Horizon Immobilier"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "contact@horizon-immo.com",
+   "href": "",
+   "x": 160,
+   "y": 650,
+   "width": 550,
+   "height": 86,
+   "tap": false,
+   "label": "contact@horizon-immo.com"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "+221 77 123 45 67",
+   "href": "",
+   "x": 730,
+   "y": 650,
+   "width": 550,
+   "height": 86,
+   "tap": false,
+   "label": "+221 77 123 45 67"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "www.horizon-immo.com",
+   "href": "",
+   "x": 160,
+   "y": 806,
+   "width": 550,
+   "height": 86,
+   "tap": true,
+   "label": "www.horizon-immo.com"
+  },
+  {
+   "tag": "select",
+   "type": "input",
+   "text": "Bénin Côte d'Ivoire Guinée Mali Senegal Togo",
+   "href": "",
+   "x": 730,
+   "y": 806,
+   "width": 550,
+   "height": 84,
+   "tap": false,
+   "label": "Bénin Côte d'Ivoire Guinée Mali Senegal Togo"
+  },
+  {
+   "tag": "input",
+   "type": "checkbox",
+   "text": "on",
+   "href": "",
+   "x": 160,
+   "y": 1050,
+   "width": 30,
+   "height": 30,
+   "tap": false,
+   "label": "on"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "CGU",
+   "href": "/conditions-generales",
+   "x": 364,
+   "y": 1048,
+   "width": 58,
+   "height": 32,
+   "tap": false,
+   "label": "CGU"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Créer mon compte",
+   "href": "",
+   "x": 160,
+   "y": 1110,
+   "width": 1120,
+   "height": 94,
+   "tap": false,
+   "label": "Créer mon compte"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Programmes neufs à Dakar Appartements, villas, VEFA… Découvrir →",
+   "href": "http://immoneuf.local:8000",
+   "x": 160,
+   "y": 1318,
+   "width": 550,
+   "height": 224,
+   "tap": false,
+   "label": "Programmes neufs à Dakar Appartements, villas, VEFA… Découvrir →"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Trouvez un artisan vérifié Plomberie, électricité, carrelage… Découvrir →",
+   "href": "http://artisan.local:8000",
+   "x": 730,
+   "y": 1318,
+   "width": 550,
+   "height": 224,
+   "tap": false,
+   "label": "Trouvez un artisan vérifié Plomberie, électricité, carrelage… Découvrir →"
+  }
+ ]
+}

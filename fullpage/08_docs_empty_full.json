@@ -1,0 +1,208 @@
+{
+ "screen": "08_docs_empty",
+ "url": "http://kayloo.local:8000/admin/profile?tab=validation",
+ "image": {
+  "width": 2880,
+  "height": 1736
+ },
+ "elements": [
+  {
+   "label": "Vue d'ensemble",
+   "type": "button",
+   "x": 16,
+   "y": 152,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Biens",
+   "type": "button",
+   "x": 16,
+   "y": 236,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "CRM",
+   "type": "button",
+   "x": 16,
+   "y": 320,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Boutique crédits",
+   "type": "button",
+   "x": 16,
+   "y": 404,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Compte",
+   "type": "button",
+   "x": 16,
+   "y": 488,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Mon profil",
+   "type": "button",
+   "x": 0,
+   "y": 570,
+   "width": 478,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Mes notifications",
+   "type": "button",
+   "x": 0,
+   "y": 642,
+   "width": 478,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Déconnexion",
+   "type": "button",
+   "x": 0,
+   "y": 714,
+   "width": 478,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Voir le site Kayloo",
+   "type": "button",
+   "x": 1994,
+   "y": 8,
+   "width": 315,
+   "height": 96,
+   "tap": false
+  },
+  {
+   "label": "Français",
+   "type": "button",
+   "x": 2325,
+   "y": 20,
+   "width": 254,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Awa Diop",
+   "type": "button",
+   "x": 2626,
+   "y": 16,
+   "width": 206,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Soumettre les documents",
+   "type": "button",
+   "x": 1732,
+   "y": 234,
+   "width": 339,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Mon profil",
+   "type": "button",
+   "x": 546,
+   "y": 517,
+   "width": 504,
+   "height": 73,
+   "tap": false
+  },
+  {
+   "label": "Réseaux sociaux",
+   "type": "button",
+   "x": 546,
+   "y": 590,
+   "width": 504,
+   "height": 73,
+   "tap": false
+  },
+  {
+   "label": "Mon agence",
+   "type": "button",
+   "x": 546,
+   "y": 663,
+   "width": 504,
+   "height": 73,
+   "tap": false
+  },
+  {
+   "label": "Validation",
+   "type": "button",
+   "x": 546,
+   "y": 736,
+   "width": 504,
+   "height": 73,
+   "tap": false
+  },
+  {
+   "label": "Mot de passe",
+   "type": "button",
+   "x": 546,
+   "y": 884,
+   "width": 504,
+   "height": 73,
+   "tap": false
+  },
+  {
+   "label": "Supprimer mon compte",
+   "type": "button",
+   "x": 546,
+   "y": 957,
+   "width": 504,
+   "height": 73,
+   "tap": false
+  },
+  {
+   "label": "Mon Profil",
+   "type": "button",
+   "x": 2622,
+   "y": 490,
+   "width": 160,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Statut",
+   "type": "button",
+   "x": 1166,
+   "y": 613,
+   "width": 132,
+   "height": 77,
+   "tap": false
+  },
+  {
+   "label": "Historique",
+   "type": "button",
+   "x": 1298,
+   "y": 613,
+   "width": 184,
+   "height": 75,
+   "tap": false
+  },
+  {
+   "label": "Vérifier mon compte",
+   "type": "button",
+   "x": 1166,
+   "y": 1107,
+   "width": 340,
+   "height": 72,
+   "tap": false
+  }
+ ]
+}

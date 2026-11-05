@@ -1,0 +1,155 @@
+{
+ "screen": "11_dashboard_credits",
+ "url": "http://kayloo.local:8000/admin/credits-shop",
+ "viewport": {
+  "width": 2880,
+  "height": 1620
+ },
+ "scrollY": 0,
+ "elements": [
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Vue d'ensemble",
+   "href": "#",
+   "x": 16,
+   "y": 152,
+   "width": 446,
+   "height": 80,
+   "tap": false,
+   "label": "Vue d'ensemble"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Biens",
+   "href": "#",
+   "x": 16,
+   "y": 236,
+   "width": 446,
+   "height": 80,
+   "tap": false,
+   "label": "Biens"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "CRM",
+   "href": "#",
+   "x": 16,
+   "y": 320,
+   "width": 446,
+   "height": 80,
+   "tap": false,
+   "label": "CRM"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Boutique crédits",
+   "href": "http://kayloo.local:8000/admin/credits-shop",
+   "x": 16,
+   "y": 404,
+   "width": 446,
+   "height": 80,
+   "tap": false,
+   "label": "Boutique crédits"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Compte",
+   "href": "#",
+   "x": 16,
+   "y": 488,
+   "width": 446,
+   "height": 80,
+   "tap": false,
+   "label": "Compte"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Voir le site Kayloo",
+   "href": "/",
+   "x": 1994,
+   "y": 8,
+   "width": 316,
+   "height": 96,
+   "tap": false,
+   "label": "Voir le site Kayloo"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Français",
+   "href": "",
+   "x": 2324,
+   "y": 20,
+   "width": 254,
+   "height": 72,
+   "tap": false,
+   "label": "Français"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Awa Diop",
+   "href": "#",
+   "x": 2626,
+   "y": 16,
+   "width": 206,
+   "height": 80,
+   "tap": false,
+   "label": "Awa Diop"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Soumettre les documents",
+   "href": "http://kayloo.local:8000/admin/profile?tab=validation",
+   "x": 1732,
+   "y": 274,
+   "width": 340,
+   "height": 40,
+   "tap": false,
+   "label": "Soumettre les documents"
+  },
+  {
+   "tag": "label",
+   "type": "button",
+   "text": "Découverte Kayloo 0 crédit 5 annonces actives 1 utilisateur Leads correspondant à vos annonces CRM intégré Statistiques / tableau de bord 0 ",
+   "href": "",
+   "x": 528,
+   "y": 914,
+   "width": 486,
+   "height": 706,
+   "tap": false,
+   "label": "Découverte Kayloo 0 crédit 5 annonces actives 1 utilisateur Leads correspondant à vos annonces CRM i"
+  },
+  {
+   "tag": "label",
+   "type": "button",
+   "text": "⭐ Populaire Standard Kayloo 5 crédits 30 annonces actives 2 utilisateurs Mise en avant des annonces 5 leads qualifiés / mois Leads correspon",
+   "href": "",
+   "x": 1046,
+   "y": 914,
+   "width": 486,
+   "height": 706,
+   "tap": false,
+   "label": "⭐ Populaire Standard Kayloo 5 crédits 30 annonces actives 2 utilisateurs Mise en avant des annonces "
+  },
+  {
+   "tag": "label",
+   "type": "button",
+   "text": "Business Kayloo 10 crédits 50 annonces actives 3 utilisateurs Mise en avant des annonces Leads qualifiés illimités Leads correspondant à vos",
+   "href": "",
+   "x": 1562,
+   "y": 914,
+   "width": 486,
+   "height": 706,
+   "tap": false,
+   "label": "Business Kayloo 10 crédits 50 annonces actives 3 utilisateurs Mise en avant des annonces Leads quali"
+  }
+ ]
+}

@@ -1,0 +1,131 @@
+{
+ "screen": "03_auth_code",
+ "url": "http://kayloo.local:8000/inscription",
+ "viewport": {
+  "width": 2880,
+  "height": 1620
+ },
+ "scrollY": 0,
+ "elements": [
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Retour",
+   "href": "/",
+   "x": 64,
+   "y": 44,
+   "width": 180,
+   "height": 68,
+   "tap": false,
+   "label": "Retour"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Chiffre 1",
+   "href": "",
+   "x": 404,
+   "y": 558,
+   "width": 92,
+   "height": 104,
+   "tap": false,
+   "label": "Chiffre 1"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Chiffre 2",
+   "href": "",
+   "x": 512,
+   "y": 558,
+   "width": 92,
+   "height": 104,
+   "tap": false,
+   "label": "Chiffre 2"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Chiffre 3",
+   "href": "",
+   "x": 620,
+   "y": 558,
+   "width": 92,
+   "height": 104,
+   "tap": false,
+   "label": "Chiffre 3"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Chiffre 4",
+   "href": "",
+   "x": 728,
+   "y": 558,
+   "width": 92,
+   "height": 104,
+   "tap": false,
+   "label": "Chiffre 4"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Chiffre 5",
+   "href": "",
+   "x": 836,
+   "y": 558,
+   "width": 92,
+   "height": 104,
+   "tap": false,
+   "label": "Chiffre 5"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Chiffre 6",
+   "href": "",
+   "x": 944,
+   "y": 558,
+   "width": 92,
+   "height": 104,
+   "tap": false,
+   "label": "Chiffre 6"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Vérifier",
+   "href": "",
+   "x": 160,
+   "y": 690,
+   "width": 1120,
+   "height": 94,
+   "tap": true,
+   "label": "Vérifier"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Renvoyer l'e-mail",
+   "href": "",
+   "x": 484,
+   "y": 804,
+   "width": 218,
+   "height": 40,
+   "tap": false,
+   "label": "Renvoyer l'e-mail"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Changer d'adresse",
+   "href": "",
+   "x": 718,
+   "y": 804,
+   "width": 238,
+   "height": 40,
+   "tap": false,
+   "label": "Changer d'adresse"
+  }
+ ]
+}

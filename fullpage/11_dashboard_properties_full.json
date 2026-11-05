@@ -1,0 +1,217 @@
+{
+ "screen": "11_dashboard_properties",
+ "url": "http://kayloo.local:8000/admin/property/list",
+ "image": {
+  "width": 2880,
+  "height": 1736
+ },
+ "elements": [
+  {
+   "label": "Vue d'ensemble",
+   "type": "button",
+   "x": 16,
+   "y": 152,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Biens",
+   "type": "button",
+   "x": 16,
+   "y": 236,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Annonces",
+   "type": "button",
+   "x": 0,
+   "y": 318,
+   "width": 478,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Nouvelle annonce",
+   "type": "button",
+   "x": 0,
+   "y": 390,
+   "width": 478,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Favoris",
+   "type": "button",
+   "x": 0,
+   "y": 462,
+   "width": 478,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "CRM",
+   "type": "button",
+   "x": 16,
+   "y": 536,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Boutique crédits",
+   "type": "button",
+   "x": 16,
+   "y": 620,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Compte",
+   "type": "button",
+   "x": 16,
+   "y": 704,
+   "width": 446,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Voir le site Kayloo",
+   "type": "button",
+   "x": 1994,
+   "y": 8,
+   "width": 315,
+   "height": 96,
+   "tap": false
+  },
+  {
+   "label": "Français",
+   "type": "button",
+   "x": 2325,
+   "y": 20,
+   "width": 254,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Awa Diop",
+   "type": "button",
+   "x": 2626,
+   "y": 16,
+   "width": 206,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Admin",
+   "type": "button",
+   "x": 2584,
+   "y": 186,
+   "width": 84,
+   "height": 34,
+   "tap": false
+  },
+  {
+   "label": "Soumettre les documents",
+   "type": "button",
+   "x": 1732,
+   "y": 370,
+   "width": 339,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Exporter",
+   "type": "button",
+   "x": 570,
+   "y": 490,
+   "width": 246,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Afficher/Masquer les colonnes",
+   "type": "button",
+   "x": 814,
+   "y": 490,
+   "width": 541,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Recherche avancée",
+   "type": "button",
+   "x": 1353,
+   "y": 490,
+   "width": 368,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Afficher 10 lignes",
+   "type": "button",
+   "x": 562,
+   "y": 628,
+   "width": 324,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "Rechercher...",
+   "type": "button",
+   "x": 2292,
+   "y": 628,
+   "width": 506,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "on",
+   "type": "button",
+   "x": 554,
+   "y": 750,
+   "width": 40,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Première",
+   "type": "button",
+   "x": 2227,
+   "y": 1518,
+   "width": 134,
+   "height": 56,
+   "tap": false
+  },
+  {
+   "label": "Précédente",
+   "type": "button",
+   "x": 2361,
+   "y": 1518,
+   "width": 168,
+   "height": 56,
+   "tap": false
+  },
+  {
+   "label": "Suivante",
+   "type": "button",
+   "x": 2529,
+   "y": 1518,
+   "width": 131,
+   "height": 56,
+   "tap": false
+  },
+  {
+   "label": "Dernière",
+   "type": "button",
+   "x": 2660,
+   "y": 1518,
+   "width": 130,
+   "height": 56,
+   "tap": false
+  }
+ ]
+}

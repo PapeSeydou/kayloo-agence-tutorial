@@ -1,0 +1,83 @@
+{
+ "screen": "03_auth_identity",
+ "url": "http://kayloo.local:8000/inscription",
+ "viewport": {
+  "width": 2880,
+  "height": 1620
+ },
+ "scrollY": 0,
+ "elements": [
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Retour",
+   "href": "/",
+   "x": 64,
+   "y": 44,
+   "width": 180,
+   "height": 68,
+   "tap": false,
+   "label": "Retour"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Awa",
+   "href": "",
+   "x": 160,
+   "y": 566,
+   "width": 550,
+   "height": 86,
+   "tap": false,
+   "label": "Awa"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "Diop",
+   "href": "",
+   "x": 730,
+   "y": 566,
+   "width": 550,
+   "height": 86,
+   "tap": false,
+   "label": "Diop"
+  },
+  {
+   "tag": "select",
+   "type": "input",
+   "text": "Sénégal (+221) Côte d’Ivoire (+225) Maroc (+212) Guinée (+224) Afghanistan (+93) Afrique du Sud (+27) Albanie (+355) Algérie (+213) Allemagn",
+   "href": "",
+   "x": 162,
+   "y": 724,
+   "width": 136,
+   "height": 82,
+   "tap": false,
+   "label": "Sénégal (+221) Côte d’Ivoire (+225) Maroc (+212) Guinée (+224) Afghanistan (+93) Afrique du Sud (+27"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "784567890",
+   "href": "",
+   "x": 300,
+   "y": 724,
+   "width": 978,
+   "height": 82,
+   "tap": false,
+   "label": "784567890"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Continuer",
+   "href": "",
+   "x": 160,
+   "y": 836,
+   "width": 1120,
+   "height": 94,
+   "tap": true,
+   "label": "Continuer"
+  }
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "screen": "01_home",
+ "url": "http://kayloo.local:8000/",
+ "image": {
+  "width": 2880,
+  "height": 15632
+ },
+ "elements": [
+  {
+   "label": "Accueil",
+   "type": "button",
+   "x": 304,
+   "y": 258,
+   "width": 163,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Louer",
+   "type": "button",
+   "x": 469,
+   "y": 258,
+   "width": 174,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Acheter",
+   "type": "button",
+   "x": 645,
+   "y": 258,
+   "width": 204,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Construire",
+   "type": "button",
+   "x": 851,
+   "y": 258,
+   "width": 205,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Investisseurs",
+   "type": "button",
+   "x": 1058,
+   "y": 258,
+   "width": 237,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Nos Partenaires",
+   "type": "button",
+   "x": 1298,
+   "y": 258,
+   "width": 307,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Publicité",
+   "type": "button",
+   "x": 1607,
+   "y": 258,
+   "width": 214,
+   "height": 112,
+   "tap": false
+  },
+  {
+   "label": "Connexion / Inscription",
+   "type": "button",
+   "x": 2051,
+   "y": 278,
+   "width": 373,
+   "height": 72,
+   "tap": false
+  },
+  {
+   "label": "FR",
+   "type": "button",
+   "x": 2448,
+   "y": 290,
+   "width": 130,
+   "height": 48,
+   "tap": false
+  },
+  {
+   "label": "— Location vide Location meublée",
+   "type": "button",
+   "x": 450,
+   "y": 929,
+   "width": 318,
+   "height": 68,
+   "tap": false
+  },
+  {
+   "label": "Tous les types Studio Appartement F3 Appartement F4 Appartement F5 Duplex Villa Bureau Magasin Terrain Parking",
+   "type": "button",
+   "x": 784,
+   "y": 929,
+   "width": 312,
+   "height": 68,
+   "tap": false
+  },
+  {
+   "label": "Tous les pays Mali Togo Bénin Senegal Côte d'Ivoire Guinée",
+   "type": "button",
+   "x": 1111,
+   "y": 929,
+   "width": 304,
+   "height": 68,
+   "tap": false
+  },
+  {
+   "label": "Toutes les villes Dakar Rufisque Saint-Louis Thiès",
+   "type": "button",
+   "x": 1431,
+   "y": 929,
+   "width": 304,
+   "height": 68,
+   "tap": false
+  },
+  {
+   "label": "250 000",
+   "type": "button",
+   "x": 1751,
+   "y": 929,
+   "width": 344,
+   "height": 68,
+   "tap": false
+  },
+  {
+   "label": "Rechercher",
+   "type": "button",
+   "x": 2111,
+   "y": 929,
+   "width": 320,
+   "height": 68,
+   "tap": false
+  },
+  {
+   "label": "Appartement F2 — Mermoz",
+   "type": "button",
+   "x": 442,
+   "y": 2761,
+   "width": 370,
+   "height": 35,
+   "tap": false
+  },
+  {
+   "label": "Appartement F3 — Yoff Virage",
+   "type": "button",
+   "x": 1123,
+   "y": 2761,
+   "width": 410,
+   "height": 35,
+   "tap": false
+  },
+  {
+   "label": "Studio F2 — Ouakam",
+   "type": "button",
+   "x": 1805,
+   "y": 2761,
+   "width": 282,
+   "height": 35,
+   "tap": false
+  },
+  {
+   "label": "Appartement F2 — Grand Yoff",
+   "type": "button",
+   "x": 2486,
+   "y": 2761,
+   "width": 394,
+   "height": 35,
+   "tap": false
+  },
+  {
+   "label": "Publier mon annonce",
+   "type": "button",
+   "x": 1180,
+   "y": 3978,
+   "width": 519,
+   "height": 120,
+   "tap": false
+  },
+  {
+   "label": "Bureaux Découvrir →",
+   "type": "button",
+   "x": 384,
+   "y": 4810,
+   "width": 498,
+   "height": 607,
+   "tap": false
+  },
+  {
+   "label": "15 Biens Appartement Découvrir →",
+   "type": "button",
+   "x": 922,
+   "y": 4810,
+   "width": 498,
+   "height": 607,
+   "tap": false
+  },
+  {
+   "label": "10 Biens Villa Découvrir →",
+   "type": "button",
+   "x": 1460,
+   "y": 4810,
+   "width": 498,
+   "height": 607,
+   "tap": false
+  },
+  {
+   "label": "Local Commercial Découvrir →",
+   "type": "button",
+   "x": 1998,
+   "y": 4810,
+   "width": 498,
+   "height": 607,
+   "tap": false
+  },
+  {
+   "label": "Voir tous les bons plans",
+   "type": "button",
+   "x": 2091,
+   "y": 5781,
+   "width": 429,
+   "height": 74,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F3 2p 70m² 1sdb Appartement F3 — Grand Dakar 150 000 F CFA / mois Dakar · Grand Dakar",
+   "type": "button",
+   "x": 360,
+   "y": 5891,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F2 2p 55m² 1sdb Appartement F2 — Mermoz 250 000 F CFA / mois Dakar · Mermoz Disponibilité confirmée il y a 2 semaines",
+   "type": "button",
+   "x": 908,
+   "y": 5891,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F2 1p 35m² 1sdb Studio F2 — Thiès Plateau 85 000 F CFA / mois Thiès · Plateau Disponibilité confirmée il y a 1 semaine",
+   "type": "button",
+   "x": 1456,
+   "y": 5891,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ Villa 3p 150m² 2sdb Villa 3 chambres — Rufisque 280 000 F CFA / mois Rufisque · Centre",
+   "type": "button",
+   "x": 2004,
+   "y": 5891,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F3 2p 78m² 2sdb Appartement F3 — Saint-Louis Nord 180 000 F CFA / mois Saint-Louis · Nord Disponibilité confirmée il y a 3 jours",
+   "type": "button",
+   "x": 360,
+   "y": 6578,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F2 1p 32m² 1sdb Studio F2 — Ouakam 95 000 F CFA / mois Dakar · Ouakam Disponibilité confirmée il y a 2 jours",
+   "type": "button",
+   "x": 908,
+   "y": 6578,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F2 1p 48m² 1sdb Appartement F2 — Grand Yoff 120 000 F CFA / mois Dakar · Grand Yoff Disponibilité confirmée il y a 5 jours",
+   "type": "button",
+   "x": 1456,
+   "y": 6578,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "BON PLAN ♡ F3 2p 80m² 1sdb Appartement F3 — Yoff Virage 300 000 F CFA / mois Dakar · Yoff Disponibilité confirmée il y a 2 semaines",
+   "type": "button",
+   "x": 2004,
+   "y": 6578,
+   "width": 516,
+   "height": 654,
+   "tap": false
+  },
+  {
+   "label": "Senegal +221 +221",
+   "type": "button",
+   "x": 1903,
+   "y": 8092,
+   "width": 170,
+   "height": 76,
+   "tap": false
+  },
+  {
+   "label": "70 123 45 67",
+   "type": "button",
+   "x": 1901,
+   "y": 8090,
+   "width": 627,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Sélectionner un type Achat Location vide Location meublée",
+   "type": "button",
+   "x": 1901,
+   "y": 8242,
+   "width": 301,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Appartement Bureau Espace de Coworking Local Commercial Studio Terrain Terrain Agricole Villa",
+   "type": "button",
+   "x": 2227,
+   "y": 8242,
+   "width": 301,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Sélectionner un pays Sénégal Côte d'Ivoire France Canada États-Unis Royaume-Uni Belgique Suisse Maroc Mali Guinée Burkina Faso Autre",
+   "type": "button",
+   "x": 1901,
+   "y": 8394,
+   "width": 627,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "on",
+   "type": "button",
+   "x": 1901,
+   "y": 8814,
+   "width": 32,
+   "height": 32,
+   "tap": false
+  },
+  {
+   "label": "Conditions d'utilisation",
+   "type": "button",
+   "x": 2102,
+   "y": 8810,
+   "width": 262,
+   "height": 30,
+   "tap": false
+  },
+  {
+   "label": "Politique de confidentialité",
+   "type": "button",
+   "x": 1949,
+   "y": 8810,
+   "width": 570,
+   "height": 62,
+   "tap": false
+  },
+  {
+   "label": "Envoyer ma demande",
+   "type": "button",
+   "x": 1901,
+   "y": 8906,
+   "width": 627,
+   "height": 88,
+   "tap": false
+  },
+  {
+   "label": "Kayloo ImmoNeuf Programmes neufs & VEFA Des programmes neufs sélectionnés auprès de promoteurs de confiance, pour acheter sur plan en toute ",
+   "type": "button",
+   "x": 384,
+   "y": 10244,
+   "width": 1040,
+   "height": 640,
+   "tap": false
+  },
+  {
+   "label": "Kayloo Artisans Artisans de confiance à domicile Plomberie, électricité, rénovation : des artisans certifiés pour vos dépannages comme pour ",
+   "type": "button",
+   "x": 1456,
+   "y": 10244,
+   "width": 1040,
+   "height": 640,
+   "tap": false
+  },
+  {
+   "label": "9 Biens Dakar Découvrir",
+   "type": "button",
+   "x": 384,
+   "y": 11400,
+   "width": 498,
+   "height": 560,
+   "tap": false
+  },
+  {
+   "label": "1 Biens Adidogomé Découvrir",
+   "type": "button",
+   "x": 922,
+   "y": 11400,
+   "width": 498,
+   "height": 560,
+   "tap": false
+  },
+  {
+   "label": "1 Biens Badalabougou Découvrir",
+   "type": "button",
+   "x": 1460,
+   "y": 11400,
+   "width": 498,
+   "height": 560,
+   "tap": false
+  },
+  {
+   "label": "1 Biens Agoè Découvrir",
+   "type": "button",
+   "x": 1998,
+   "y": 11400,
+   "width": 498,
+   "height": 560,
+   "tap": false
+  },
+  {
+   "label": "4 août 2026 · achat immobilier, guide, primo-accédant, sénégal Achat immobilier au Sénégal : guide complet pour les primo-accédants Tout ce ",
+   "type": "button",
+   "x": 384,
+   "y": 12456,
+   "width": 816,
+   "height": 1248,
+   "tap": false
+  },
+  {
+   "label": "Rénover sa cuisine : les tendances 2026 pour un espace fonctionnel et moderne 3 août 2026 · rénovation, cuisine, tendances, aménagement Déco",
+   "type": "button",
+   "x": 1248,
+   "y": 12456,
+   "width": 1248,
+   "height": 384,
+   "tap": false
+  },
+  {
+   "label": "Comment choisir son artisan pour des travaux de rénovation 31 juillet 2026 · artisan, rénovation, conseils, devis, travaux Guide pratique po",
+   "type": "button",
+   "x": 1248,
+   "y": 12888,
+   "width": 1248,
+   "height": 384,
+   "tap": false
+  },
+  {
+   "label": "Les tendances immobilières 2026 à Dakar 29 juillet 2026 · tendances, marché immobilier, dakar, 2026 Découvrez les grandes tendances qui faço",
+   "type": "button",
+   "x": 1248,
+   "y": 13320,
+   "width": 1248,
+   "height": 384,
+   "tap": false
+  },
+  {
+   "label": "Voir tous les articles",
+   "type": "button",
+   "x": 1290,
+   "y": 13820,
+   "width": 300,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Dakar",
+   "type": "button",
+   "x": 334,
+   "y": 15192,
+   "width": 705,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Adidogomé",
+   "type": "button",
+   "x": 334,
+   "y": 15240,
+   "width": 705,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Badalabougou",
+   "type": "button",
+   "x": 334,
+   "y": 15288,
+   "width": 705,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Agoè",
+   "type": "button",
+   "x": 334,
+   "y": 15336,
+   "width": 705,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Akpakpa",
+   "type": "button",
+   "x": 334,
+   "y": 15384,
+   "width": 705,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Voir toutes les villes →",
+   "type": "button",
+   "x": 334,
+   "y": 15432,
+   "width": 705,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "+221 33 058 29 49",
+   "type": "button",
+   "x": 1131,
+   "y": 15284,
+   "width": 237,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "contact@kayloo.immo",
+   "type": "button",
+   "x": 1131,
+   "y": 15336,
+   "width": 305,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Les plus consultés",
+   "type": "button",
+   "x": 1841,
+   "y": 15192,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Nos Biens par Ville",
+   "type": "button",
+   "x": 2209,
+   "y": 15192,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Biens à vendre",
+   "type": "button",
+   "x": 1841,
+   "y": 15244,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Biens à louer",
+   "type": "button",
+   "x": 2209,
+   "y": 15244,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Locations meublées",
+   "type": "button",
+   "x": 1841,
+   "y": 15296,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Blog immobilier",
+   "type": "button",
+   "x": 2209,
+   "y": 15296,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "CGU",
+   "type": "button",
+   "x": 1841,
+   "y": 15348,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Mentions légales",
+   "type": "button",
+   "x": 2209,
+   "y": 15348,
+   "width": 337,
+   "height": 40,
+   "tap": false
+  },
+  {
+   "label": "Politique de confidentialité",
+   "type": "button",
+   "x": 1841,
+   "y": 15400,
+   "width": 337,
+   "height": 80,
+   "tap": false
+  },
+  {
+   "label": "Réserver un espace pub",
+   "type": "button",
+   "x": 2209,
+   "y": 15400,
+   "width": 337,
+   "height": 80,
+   "tap": false
+  }
+ ]
+}

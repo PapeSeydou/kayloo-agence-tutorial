@@ -1,0 +1,46 @@
+{
+ "screen": "03_auth_email",
+ "url": "http://kayloo.local:8000/inscription",
+ "image": {
+  "width": 2880,
+  "height": 1620
+ },
+ "elements": [
+  {
+   "label": "Retour",
+   "type": "button",
+   "x": 64,
+   "y": 44,
+   "width": 180,
+   "height": 67,
+   "tap": false
+  },
+  {
+   "label": "contact@horizon-immo.com",
+   "type": "button",
+   "x": 160,
+   "y": 565,
+   "width": 1120,
+   "height": 86,
+   "tap": false
+  },
+  {
+   "label": "Continuer",
+   "type": "button",
+   "x": 160,
+   "y": 679,
+   "width": 1120,
+   "height": 93,
+   "tap": false
+  },
+  {
+   "label": "S'inscrire avec un numéro de téléphone",
+   "type": "button",
+   "x": 475,
+   "y": 792,
+   "width": 489,
+   "height": 39,
+   "tap": false
+  }
+ ]
+}

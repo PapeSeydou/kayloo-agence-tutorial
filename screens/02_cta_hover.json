@@ -1,0 +1,203 @@
+{
+ "screen": "02_cta_hover",
+ "url": "http://kayloo.local:8000/",
+ "viewport": {
+  "width": 2880,
+  "height": 1620
+ },
+ "scrollY": 0,
+ "elements": [
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Accueil",
+   "href": "http://kayloo.local:8000/",
+   "x": 304,
+   "y": 258,
+   "width": 162,
+   "height": 112,
+   "tap": false,
+   "label": "Accueil"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Louer",
+   "href": "http://kayloo.local:8000/location-locataire",
+   "x": 468,
+   "y": 258,
+   "width": 174,
+   "height": 112,
+   "tap": false,
+   "label": "Louer"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Acheter",
+   "href": "http://kayloo.local:8000/vente-acheteur",
+   "x": 646,
+   "y": 258,
+   "width": 204,
+   "height": 112,
+   "tap": false,
+   "label": "Acheter"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Construire",
+   "href": "http://kayloo.local:8000/construire",
+   "x": 852,
+   "y": 258,
+   "width": 206,
+   "height": 112,
+   "tap": false,
+   "label": "Construire"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Investisseurs",
+   "href": "http://kayloo.local:8000/investisseurs",
+   "x": 1058,
+   "y": 258,
+   "width": 238,
+   "height": 112,
+   "tap": false,
+   "label": "Investisseurs"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Nos Partenaires",
+   "href": "http://kayloo.local:8000/agences",
+   "x": 1298,
+   "y": 258,
+   "width": 308,
+   "height": 112,
+   "tap": false,
+   "label": "Nos Partenaires"
+  },
+  {
+   "tag": "a",
+   "type": "link",
+   "text": "Publicité",
+   "href": "/publicite",
+   "x": 1606,
+   "y": 258,
+   "width": 214,
+   "height": 112,
+   "tap": false,
+   "label": "Publicité"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Connexion / Inscription",
+   "href": "",
+   "x": 2052,
+   "y": 278,
+   "width": 374,
+   "height": 72,
+   "tap": true,
+   "label": "Connexion / Inscription"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "FR",
+   "href": "",
+   "x": 2448,
+   "y": 290,
+   "width": 130,
+   "height": 48,
+   "tap": false,
+   "label": "FR"
+  },
+  {
+   "tag": "select",
+   "type": "input",
+   "text": "— Location vide Location meublée",
+   "href": "",
+   "x": 450,
+   "y": 930,
+   "width": 318,
+   "height": 68,
+   "tap": false,
+   "label": "— Location vide Location meublée"
+  },
+  {
+   "tag": "select",
+   "type": "input",
+   "text": "Tous les types Studio Appartement F3 Appartement F4 Appartement F5 Duplex Villa Bureau Magasin Terrain Parking",
+   "href": "",
+   "x": 784,
+   "y": 930,
+   "width": 312,
+   "height": 68,
+   "tap": false,
+   "label": "Tous les types Studio Appartement F3 Appartement F4 Appartement F5 Duplex Villa Bureau Magasin Terra"
+  },
+  {
+   "tag": "select",
+   "type": "input",
+   "text": "Tous les pays Mali Togo Bénin Senegal Côte d'Ivoire Guinée",
+   "href": "",
+   "x": 1112,
+   "y": 930,
+   "width": 304,
+   "height": 68,
+   "tap": false,
+   "label": "Tous les pays Mali Togo Bénin Senegal Côte d'Ivoire Guinée"
+  },
+  {
+   "tag": "select",
+   "type": "input",
+   "text": "Toutes les villes Dakar Rufisque Saint-Louis Thiès",
+   "href": "",
+   "x": 1432,
+   "y": 930,
+   "width": 304,
+   "height": 68,
+   "tap": false,
+   "label": "Toutes les villes Dakar Rufisque Saint-Louis Thiès"
+  },
+  {
+   "tag": "input",
+   "type": "input",
+   "text": "250 000",
+   "href": "",
+   "x": 1750,
+   "y": 930,
+   "width": 344,
+   "height": 68,
+   "tap": false,
+   "label": "250 000"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Rechercher",
+   "href": "",
+   "x": 2110,
+   "y": 930,
+   "width": 320,
+   "height": 68,
+   "tap": false,
+   "label": "Rechercher"
+  },
+  {
+   "tag": "button",
+   "type": "button",
+   "text": "Retour en haut",
+   "href": "",
+   "x": 2752,
+   "y": 1492,
+   "width": 80,
+   "height": 80,
+   "tap": false,
+   "label": "Retour en haut"
+  }
+ ]
+}
